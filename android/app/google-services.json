@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "840351122258",
+    "project_id": "reactnotificationapp-8ba90",
+    "storage_bucket": "reactnotificationapp-8ba90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840351122258:android:d762d4755e06e371afb08b",
+        "android_client_info": {
+          "package_name": "com.firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840351122258-0d2qdrh0kc2igj5tifb9ehmh0sa1nv66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvwGmU9trvtdUZBKrM9qrCo6fqepxpGjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840351122258-0d2qdrh0kc2igj5tifb9ehmh0sa1nv66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

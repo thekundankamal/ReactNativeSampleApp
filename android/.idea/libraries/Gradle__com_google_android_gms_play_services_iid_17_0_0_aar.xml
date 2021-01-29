@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-iid:17.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/f5272c94bf5519051b7b7d4e13e806e1/play-services-iid-17.0.0/res" />
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/0e8f09e71e874b7f4d87fdc6c8d21ae3/play-services-iid-17.0.0/res" />
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/81a71bd5001c57616de3551b5dc1da9b/play-services-iid-17.0.0/res" />
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/0f65125a8871242ae4da28bc0f852b51/play-services-iid-17.0.0/res" />
+      <root url="jar://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/0f65125a8871242ae4da28bc0f852b51/play-services-iid-17.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/0f65125a8871242ae4da28bc0f852b51/play-services-iid-17.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/gradle-6.4.1/caches/modules-2/files-2.1/com.google.android.gms/play-services-iid/17.0.0/96450db4099dd9555088dcb09faf6d355f8c7a98/play-services-iid-17.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

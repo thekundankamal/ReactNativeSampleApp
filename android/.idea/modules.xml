@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FirebaseProject.iml" filepath="$PROJECT_DIR$/.idea/modules/FirebaseProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FirebaseProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FirebaseProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2048386139/FirebaseProject.react-native-firebase_analytics.iml" filepath="$PROJECT_DIR$/.idea/modules/2048386139/FirebaseProject.react-native-firebase_analytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2039549002/FirebaseProject.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-2039549002/FirebaseProject.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1794467922/FirebaseProject.react-native-firebase_crashlytics.iml" filepath="$PROJECT_DIR$/.idea/modules/-1794467922/FirebaseProject.react-native-firebase_crashlytics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1643109927/FirebaseProject.react-native-firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-1643109927/FirebaseProject.react-native-firebase_messaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1553015093/FirebaseProject.react-native-push-notification.iml" filepath="$PROJECT_DIR$/.idea/modules/-1553015093/FirebaseProject.react-native-push-notification.iml" />
+    </modules>
+  </component>
+</project>

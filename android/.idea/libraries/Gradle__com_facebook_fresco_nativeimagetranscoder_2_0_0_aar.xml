@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.fresco:nativeimagetranscoder:2.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/f2a912bb9675cc819ddb091c47855c15/nativeimagetranscoder-2.0.0/res" />
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/769d70b998b8c17f7c14ccece0a1bd5f/nativeimagetranscoder-2.0.0/res" />
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/9ab0a53d885e502b7d8613fdef62be4e/nativeimagetranscoder-2.0.0/res" />
+      <root url="jar://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/4e909b67c1a80d7b914df16cad9bc6ea/nativeimagetranscoder-2.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/4e909b67c1a80d7b914df16cad9bc6ea/nativeimagetranscoder-2.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/4e909b67c1a80d7b914df16cad9bc6ea/nativeimagetranscoder-2.0.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/gradle-6.4.1/caches/modules-2/files-2.1/com.facebook.fresco/nativeimagetranscoder/2.0.0/932ea9d534186b04741da83dfd2a084858b387c3/nativeimagetranscoder-2.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/gradle-6.4.1/caches/modules-2/files-2.1/com.facebook.fresco/nativeimagetranscoder/2.0.0/fb21c65434fc60833b60f9d81f255de5db0dde47/nativeimagetranscoder-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-cloud-messaging:16.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/3d85f9cc89d54b1f2cd743f6619407a6/play-services-cloud-messaging-16.0.0/res" />
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/64b2d9674c35181fd17d4ce92969ad3c/play-services-cloud-messaging-16.0.0/res" />
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/e9984be33fc8a920c66b3ef9eb9e09e3/play-services-cloud-messaging-16.0.0/res" />
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/a8ad0631dec5c4f7af3e53c3a4acd303/play-services-cloud-messaging-16.0.0/res" />
+      <root url="jar://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/a8ad0631dec5c4f7af3e53c3a4acd303/play-services-cloud-messaging-16.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/a8ad0631dec5c4f7af3e53c3a4acd303/play-services-cloud-messaging-16.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/gradle-6.4.1/caches/modules-2/files-2.1/com.google.android.gms/play-services-cloud-messaging/16.0.0/66bcaa7ea2458690135561b6053cc71210dbd9dd/play-services-cloud-messaging-16.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

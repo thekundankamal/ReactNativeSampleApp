@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">840351122258-0d2qdrh0kc2igj5tifb9ehmh0sa1nv66.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">840351122258</string>
+    <string name="google_api_key" translatable="false">AIzaSyDvwGmU9trvtdUZBKrM9qrCo6fqepxpGjs</string>
+    <string name="google_app_id" translatable="false">1:840351122258:android:d762d4755e06e371afb08b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDvwGmU9trvtdUZBKrM9qrCo6fqepxpGjs</string>
+    <string name="google_storage_bucket" translatable="false">reactnotificationapp-8ba90.appspot.com</string>
+    <string name="project_id" translatable="false">reactnotificationapp-8ba90</string>
+</resources>

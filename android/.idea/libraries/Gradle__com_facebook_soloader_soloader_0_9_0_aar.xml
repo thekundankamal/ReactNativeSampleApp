@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.soloader:soloader:0.9.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/d0aa67efc751b42d73b7d82afec8d474/soloader-0.9.0/res" />
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/3a824e02fa03eed479bbcdd0a4d4a81e/soloader-0.9.0/res" />
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/f2cc36bcbb7935a979cb02adfd225bf1/soloader-0.9.0/res" />
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/7e5db2549434eef9ba0d13bc4928de3b/soloader-0.9.0/res" />
+      <root url="file://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/7e5db2549434eef9ba0d13bc4928de3b/soloader-0.9.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/Downloads/gradle-6.4.1/caches/transforms-2/files-2.1/7e5db2549434eef9ba0d13bc4928de3b/soloader-0.9.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/gradle-6.4.1/caches/modules-2/files-2.1/com.facebook.soloader/soloader/0.9.0/8659e7a24dd13aa0bac0c3fb4142202c950580a4/soloader-0.9.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/gradle-6.4.1/caches/modules-2/files-2.1/com.facebook.soloader/soloader/0.9.0/31ce3095b722078d73cf17ab108149be547da8bf/soloader-0.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
